@@ -15,8 +15,7 @@
     <version>1.0</version>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mybatis-plus.boot3.version>3.5.5</mybatis-plus.boot3.version>
         <lombok.version>1.18.36</lombok.version>
